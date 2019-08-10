@@ -1,4 +1,4 @@
-objc[4510]: Class JavaLaunchHelper is implemented in both /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/bin/java (0x1081904c0) and /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/libinstrument.dylib (0x109a194e0). One of the two will be used. Which one is undefined.
+
 ****** Blockchain World!******
 
 - ID 0
