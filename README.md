@@ -1,4 +1,4 @@
-# Thesis
+# Thesis [Blockchain, Cryptocurrency]
 
 # Main logic behind the 2 Projects [Blockchain, Cryptocurrency] :
 
