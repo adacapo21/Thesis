@@ -1,4 +1,5 @@
-# Thesis [Blockchain, Cryptocurrency]
+# Thesis - Blockchain - Cryptocurrency
+Source code for my master Thesis on Blockchain (Create block, Crate Chain, Proof of work, Wallets and Transactions on the Blockchain, Transaction Pool – Transactions with wallet, Mine Transactions in a Block)
 
 # Main logic behind the 2 Projects [Blockchain, Cryptocurrency] :
 
